@@ -1,4 +1,7 @@
-# The Celestial Equilibrium — A Starborne Compass for Human Resonance
+[![Part of the Constella ecosystem](https://img.shields.io/badge/Constella-ecosystem-blueviolet)](https://github.com/Nightmarejam/constella-framework)
+
+> This doctrine is a foundational ethics pillar of the [Constella Framework](https://github.com/Nightmarejam/constella-framework).
+> # The Celestial Equilibrium — A Starborne Compass for Human Resonance
 
 This repository contains a public, timestamped release of the doctrine known as **The Celestial Equilibrium — A Starborne Compass for Human Resonance**.
 
