@@ -1,5 +1,8 @@
 [![Part of the Constella ecosystem](https://img.shields.io/badge/Constella-ecosystem-blueviolet)](https://github.com/Nightmarejam/constella-framework)
 
+> This doctrine is a foundational ethics pillar of the **Constella Framework**.
+> Implementation threads live in the main project: https://github.com/Nightmarejam/constella-framework[![Part of the Constella ecosystem](https://img.shields.io/badge/Constella-ecosystem-blueviolet)](https://github.com/Nightmarejam/constella-framework)
+
 > This doctrine is a foundational ethics pillar of the [Constella Framework](https://github.com/Nightmarejam/constella-framework).
 > # The Celestial Equilibrium — A Starborne Compass for Human Resonance
 
