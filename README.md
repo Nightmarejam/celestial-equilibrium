@@ -1,35 +1,48 @@
-[![Part of the Constella ecosystem](https://img.shields.io/badge/Constella-ecosystem-blueviolet)](https://github.com/Nightmarejam/constella-framework)
+[![Doctrine](https://img.shields.io/badge/Celestial%20Equilibrium-v1.0.0-blueviolet)](docs/doctrine/README.md)
+# 🌌 The Celestial Equilibrium
+*A Starborne Compass for Human Resonance*
 
-> This doctrine is a foundational ethics pillar of the **Constella Framework**.
-> Implementation threads live in the main project: https://github.com/Nightmarejam/constella-framework[![Part of the Constella ecosystem](https://img.shields.io/badge/Constella-ecosystem-blueviolet)](https://github.com/Nightmarejam/constella-framework)
+This doctrine is the ethical foundation that informs the Constella Framework.  
+It provides a practical, non-dogmatic lens for alignment and governance: **body · mind · world** in harmonic relationship, with **dissonance** treated as a natural signal to resolve—not an enemy to erase.
 
-> This doctrine is a foundational ethics pillar of the [Constella Framework](https://github.com/Nightmarejam/constella-framework).
-> # The Celestial Equilibrium — A Starborne Compass for Human Resonance
+> 👣 Maintained as a separate, versioned repository and referenced here for provenance.
 
-This repository contains a public, timestamped release of the doctrine known as **The Celestial Equilibrium — A Starborne Compass for Human Resonance**.
+---
 
-## Contents
-- `DOCTRINE.md` — the full text
-- `The_Celestial_Equilibrium.pdf` — signed snapshot with timestamp and hash
-- `LICENSE` — content licensed under **CC BY 4.0**
-- `PROVENANCE.json` — timestamp, cryptographic hash, and verification instructions
-- `VERIFY_HASH.sh` — optional helper to re-hash `DOCTRINE.md` and compare
+## 📚 Read the Doctrine
+- **Full Text (Markdown):**  
+  https://github.com/Nightmarejam/celestial-equilibrium/blob/v1.0.0/DOCTRINE.md
+- **Signed PDF (Provenance Copy):**  
+  https://github.com/Nightmarejam/celestial-equilibrium/blob/v1.0.0/The_Celestial_Equilibrium.pdf
 
-## Authorship & Provenance
-- **Timestamp:** 2025-08-14 06:05:03 UTC
-- **SHA-256 (DOCTRINE.md canonical text):** `940395baa099c34af15c1b19eff110063ac2e2d2a1cdaaf2fda2c1bebcc25f17`
+> Why external links? The doctrine is tracked as a **submodule** for integrity and auditability. GitHub doesn’t reliably deep-link to files *inside* a submodule from a parent README, so we link to the canonical repo at the tagged release.
 
-To verify locally:
+---
+
+## 🔑 Core Ideas (at a glance)
+- **Resonance Gap:** Misalignment between a person’s will and their world’s frequency creates friction and loss of meaning.
+- **Harmonic Alignment:** Flourishing requires coherence across **body**, **mind**, and **world**.
+- **Role of Dissonance:** Dissonance is natural and often creative; it becomes harmful only when **chronic and unresolved**.
+- **Cycle of Restoration:** Recognize → adjust environment → build micro-resonances → embody → scale to community.
+- **Human Standard:** Judge systems by how they treat those with the **weakest resonance**.
+- **Oath of Resonance:** Design structures that **reduce the resonance gap** before judging performance.
+
+---
+
+## 🧭 “Religion as a Question”
+The appendix reframes religion as a **keeper of questions** rather than fixed answers, offering a resonance-based perspective on:
+- Purpose, death, moral action, suffering, and leadership  
+(See Appendix in the full text.)
+
+---
+
+## 🧾 Version & Provenance
+- **Current pinned version:** `v1.0.0`  
+- **Repository:** https://github.com/Nightmarejam/celestial-equilibrium  
+- **Signed PDF:** includes timestamp + SHA-256 on the title page.
+
+To verify the Markdown locally:
 ```bash
-sha256sum DOCTRINE.md
-# or on macOS:
+# In the doctrine repo clone
 shasum -a 256 DOCTRINE.md
-```
-
-The value should match the hash above. The PDF contains the same hash on its title page.
-
-## Suggested Citation
-> *The Celestial Equilibrium — A Starborne Compass for Human Resonance.* Public release, 2025-08-14 06:05:03 UTC. CC BY 4.0.
-
-## Optional Notarization
-You may add an external timestamp (e.g., OpenTimestamps) at any time. This repo already provides a stable hash for proof-of-existence.
+# Compare with the hash listed in PROVENANCE.json of the doctrine repo
