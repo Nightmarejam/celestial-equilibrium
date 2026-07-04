@@ -46,3 +46,18 @@ To verify the Markdown locally:
 # In the doctrine repo clone
 shasum -a 256 DOCTRINE.md
 # Compare with the hash listed in PROVENANCE.json of the doctrine repo
+```
+
+---
+
+## 🧬 Has it held up?
+
+A year of building later, the core values didn't drift — most **deepened into concrete
+mechanisms**: the *resonance gap* became a civic floor, *dissonance* became a
+conflict-resolution accord, *body·mind·world* became a formal mapping. The honest
+exception is the appendix's metaphysical claims, which predate a discipline the ecosystem
+later adopted — *don't claim what you can't show.*
+
+- **Full continuity review:** [constella › doctrine_values_review.md](https://github.com/Nightmarejam/constella-framework/blob/main/docs/reference/doctrine_values_review.md)
+- **A `v2` is planned** — one that keeps this 2025 anchor **intact and unedited** and adds
+  honesty as an explicit value. v2 will be a *new* signed release, never a change to `v1.0.0`.
