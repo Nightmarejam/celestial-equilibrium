@@ -38,6 +38,34 @@ grown into the spine of the whole project — and it isn't written into the doct
   labeled, not presented as settled. Nothing is deleted; it's relabeled to match how you
   now hold it.
 
+## The root of §VIII — where attestation actually came from (Jonathan's words, 2026-07)
+
+*Captured raw, lightly organized, kept in his voice — this is the seed v2 is built from,
+not the polished draft below. Two problems, one answer.*
+
+**The realization it grew from:** *we only ever go just above the surface level of
+observing.* That one realization supported most of the concepts gathered since.
+
+**Problem 1 — the observability gap.** In this world we don't have real observability into
+how much someone actually contributes to a system, or how much energy is truly being
+spent. We just read *monitored feedback* — proxies — with no real lessons on what would
+work best. We try to learn observability through **still frames of suffering**: snapshots,
+not the living process that produced them. So the lessons stay shallow.
+
+**Problem 2 — the conformity error.** A tree is not expected to grow into the same
+picture-perfect model that was given to the seed. There will be many differences of growth
+by environment and by genetic pattern. So why are we using a constitution that unnaturally
+asks for perfect conformity — **polluting the one thing that might help us survive the
+future: diversity?**
+
+**Why they're one idea.** Attestation is the demand to *see truly* — real contribution,
+real energy, the real living process — instead of judging everything against a template it
+was never going to match. Honesty about claims is only its surface. Underneath: attest to
+what **is**, including how it diverges, rather than measuring the gap from an imposed ideal.
+(The joule anchor is this idea as engineering: measure energy actually spent, not a proxy.)
+
+---
+
 ## Proposed §VIII — the new value (draft language, make it yours)
 
 > **VIII. The Principle of Attestation**
